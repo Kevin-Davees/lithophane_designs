@@ -3,6 +3,8 @@
 A collection of 3D-printable lithophane designs made in **Autodesk Fusion 360**. Each design is ready to export as STL and print with any standard FDM printer using translucent or white PLA/PETG filament.
 
 ---
+![Design](assets/design.png)
+---
 
 ## 📦 Designs
 
